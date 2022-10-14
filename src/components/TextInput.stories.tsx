@@ -8,12 +8,12 @@ export default {
   component: TextInput.Root,
   args: {
     children: (
-      <>
+      [
         <TextInput.Icon>
           <Envelope/>
-        </TextInput.Icon>
+        </TextInput.Icon>,
         <TextInput.Input placeholder='Type your e-mail address'/>
-      </>
+      ]
     )
    
   },
@@ -28,4 +28,11 @@ export default {
 } as Meta<TextInputRootProps>
 
 export const Default: StoryObj<TextInputRootProps> = {}
+
+export const WithoutIcon: StoryObj<TextInputRootProps> = {
+  args: {
+    children: <TextInput.Input placeholder='Type your e-mail address'/>
+
+  }
+}
 

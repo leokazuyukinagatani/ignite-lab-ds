@@ -9,12 +9,14 @@ export interface TextInputRootProps {
 
 function TextInputRoot(props: TextInputRootProps) {
   return(
-    <div className='flex items-center gap-3 py-4 px-3 rounded bg-gray-800 w-full  focus-within:ring-2 ring-cyan-300'>
+    <div className='flex h-12 items-center gap-3 py-4 px-3 rounded bg-gray-800 w-full  focus-within:ring-2 ring-cyan-300'>
       {props.children}
     </div>
   )
   
 }
+TextInputRoot.displayName = 'TextInput.Root'
+
 
 export interface TextInputIconProps {
   children: ReactNode;
@@ -27,6 +29,7 @@ function TextInputIcon(props: TextInputIconProps) {
     </Slot>
   )
 }
+TextInputIcon.displayName = 'TextInput.Icon'
 
 
 
@@ -43,6 +46,8 @@ function TextInputInput(props : TextInputInputProps) {
       />
   )
 }
+TextInputInput.displayName = 'TextInput.Input'
+
 
 export const TextInput = {
   Root: TextInputRoot,

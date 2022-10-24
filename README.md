@@ -1,23 +1,30 @@
-[Tecnologias](#-stack-utilizada) |
+[Roadmap](#-roadmap) |
+[Documentação](#-documentação) |
 [Como Executar](#-rodando-localmente) |
 [Projeto](#-stack-utilizada) |
 [Testes](#-rodando-os-testes) |
-[Documentação](#-documentação-da-api)  |
 [Next Level](#-melhorias) 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/6335f80ba54ab27e8d4459cd_OG-ignitelab.jpg)
 
 
-# Título do Projeto
+# Ignite Lab- Design System - Do Figma ao React
 
-Ignite Lab- Design System - Do Figma ao React
+Nome do Evento: Ignite Lab React
+Data: De 10 a 12 de outubro de 2022
+Empresa: Rocketseat
+Evento ministrado por: Diego Schell Fernandes(Co-fundador e CTO na Rocketseat)
+Conteúdo: Construção de um Design System do Figma ao React
+Tecnologias e Ferramentas Utilizadas no Evento: 
+Ignite Lab| React finalizou 15 de outubro de 2022
+Evento que transformou a maneira como desenvolver Design System com React
 
 
 ## Roadmap
 
 - Desenvolvimento de uma página de login no Figma
 - Criação do Design System(fonts, buttons, inputs, checkboxs)
-- Componentização dos elemento no Figma
+- Componentização dos elementos no Figma
 - Criação de tokens de cores
 - Utilização do plugin Color Styleguide para geração do Color Styles
 - Criação do projeto com Vite
@@ -29,15 +36,8 @@ Ignite Lab- Design System - Do Figma ao React
 - Configuração e Deploy do Storybook utilizando o plugin storybook-deployer
 - Utilizando Github Actions para automatizar o deploy do Storybook
 
-## Links úteis
-- Design no Figma disponível no link:  [Ignite Lab Design System - Figma](https://www.figma.com/file/YYbBFGWHotDau2pGI4e0u5/Ignite-Lab-Design-System?node-id=1%3A3)
-
-- Storybook disponível no link: [Ignite Lab Design System - Storybook](https://leokazuyukinagatani.github.io/ignite-lab-ds/)
-
 ## Stack e tecnologias utilizada
-
-React, TailwindCSS, RadixUI, Storybook, Vite, Typescript, Axios
-
+React, TailwindCSS, RadixUI, Storybook, Vite, Typescript, Axios, Jest, Figma
 
 ## Rodando localmente
 
@@ -72,6 +72,11 @@ Inicie o storybook
 ```
 
 Obs: Em caso de erro ao iniciar o storybook verificar versão do nodejs e utilizar o 'nvm' para alteração da versão.
+
+## Documentação
+- Design no Figma disponível no link:  [Ignite Lab Design System - Figma](https://www.figma.com/file/YYbBFGWHotDau2pGI4e0u5/Ignite-Lab-Design-System?node-id=1%3A3)
+
+- Storybook disponível no link: [Ignite Lab Design System - Storybook](https://leokazuyukinagatani.github.io/ignite-lab-ds/)
 
 ## Documentação de cores
 

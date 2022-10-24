@@ -10,14 +10,14 @@
 
 # Ignite Lab- Design System - Do Figma ao React
 
-Nome do Evento: Ignite Lab React
-Data: De 10 a 12 de outubro de 2022
-Empresa: Rocketseat
-Evento ministrado por: Diego Schell Fernandes(Co-fundador e CTO na Rocketseat)
-Conteúdo: Construção de um Design System do Figma ao React
-Tecnologias e Ferramentas Utilizadas no Evento: 
-Ignite Lab| React finalizou 15 de outubro de 2022
-Evento que transformou a maneira como desenvolver Design System com React
+- Nome do Evento: Ignite Lab React
+- Data: De 10 a 12 de outubro de 2022
+- Empresa: Rocketseat
+- Evento ministrado por: Diego Schell Fernandes(Co-fundador e CTO na Rocketseat)
+- Conteúdo: Construção de um Design System do Figma ao React
+- Tecnologias e Ferramentas Utilizadas no Evento: 
+- Ignite Lab| React finalizou 15 de outubro de 2022
+- Evento que transformou a maneira como desenvolver Design System com React
 
 
 ## Roadmap

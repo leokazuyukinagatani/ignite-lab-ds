@@ -36,7 +36,7 @@ Evento que transformou a maneira como desenvolver Design System com React
 - Configuração e Deploy do Storybook utilizando o plugin storybook-deployer
 - Utilizando Github Actions para automatizar o deploy do Storybook
 
-## Stack e tecnologias utilizada
+## Stack utilizada
 React, TailwindCSS, RadixUI, Storybook, Vite, Typescript, Axios, Jest, Figma
 
 ## Rodando localmente

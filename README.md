@@ -25,15 +25,16 @@ Ignite Lab- Design System - Do Figma ao React
 - Criação dos components React(Utilizando Radix) e Stories para visualização no Storybook
 - Criação da Pagina com os components criados previamente
 - Criação de testes automatizados com o plugin jest
+- Utilização do MSW para simular uma API
 - Configuração e Deploy do Storybook utilizando o plugin storybook-deployer
 - Utilizando Github Actions para automatizar o deploy do Storybook
 
 ## Design no Figma
-Design disponível no link:[Ignite Lab Design System](https://www.figma.com/file/YYbBFGWHotDau2pGI4e0u5/Ignite-Lab-Design-System?node-id=1%3A3)
+Design disponível no link:  [Ignite Lab Design System](https://www.figma.com/file/YYbBFGWHotDau2pGI4e0u5/Ignite-Lab-Design-System?node-id=1%3A3)
 
-## Stack utilizada
+## Stack e tecnologias utilizada
 
-React, TailwindCSS, RadixUI
+React, TailwindCSS, RadixUI, Storybook, Vite, Typescript, Axios
 
 
 ## Rodando localmente
@@ -41,13 +42,13 @@ React, TailwindCSS, RadixUI
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/leokazuyukinagatani/ignite-lab-ds
 ```
 
 Entre no diretório do projeto
 
 ```bash
-  cd my-project
+  cd ignite-lab-ds
 ```
 
 Instale as dependências
@@ -62,6 +63,14 @@ Inicie o servidor
   npm run dev
 ```
 
+Inicie o storybook
+
+```bash
+  npm run storybook
+```
+
+Obs: Em caso de erro ao iniciar o storybook verificar versão do nodejs e utilizar o 'nvm' para alteração da versão.
+
 ## Documentação de cores
 
 | Cor               | Hexadecimal                                                |
@@ -69,7 +78,7 @@ Inicie o servidor
 | Cor exemplo       | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
 | Cor exemplo       | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
 | Cor exemplo       | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Cor exemplo       | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+| Cor exemplo       | ![#00d1a0](https://via.placeholder.com/10/00b48a) #00d1a0 |
 
 
 ## Melhorias

@@ -75,7 +75,7 @@ Obs: Em caso de erro ao iniciar o storybook verificar versão do nodejs e utiliz
 
 | Cor               | Hexadecimal                                                |
 | ----------------- | ---------------------------------------------------------------- |
-| Cor exemplo       | ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) |
+| Cor exemplo       | ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) #f03c15|
 | Cor exemplo       | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
 | Cor exemplo       | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
 | Cor exemplo       | ![#00d1a0](https://via.placeholder.com/10/00b48a) #00d1a0 |

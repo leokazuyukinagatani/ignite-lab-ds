@@ -29,8 +29,10 @@ Ignite Lab- Design System - Do Figma ao React
 - Configuração e Deploy do Storybook utilizando o plugin storybook-deployer
 - Utilizando Github Actions para automatizar o deploy do Storybook
 
-## Design no Figma
-Design disponível no link:  [Ignite Lab Design System](https://www.figma.com/file/YYbBFGWHotDau2pGI4e0u5/Ignite-Lab-Design-System?node-id=1%3A3)
+## Links úteis
+- Design no Figma disponível no link:  [Ignite Lab Design System - Figma](https://www.figma.com/file/YYbBFGWHotDau2pGI4e0u5/Ignite-Lab-Design-System?node-id=1%3A3)
+
+- Storybook disponível no link: [Ignite Lab Design System - Storybook](https://leokazuyukinagatani.github.io/ignite-lab-ds/)
 
 ## Stack e tecnologias utilizada
 
@@ -94,10 +96,15 @@ Que melhorias você fez no seu código? Ex: refatorações, melhorias de perform
 
 O que você aprendeu construindo esse projeto? Quais desafios você enfrentou e como você superou-os?
 
+- Storybook
+- Testes automatizados com Jest junto ao Storybook
+- Simular uma API com Mock junto ao Storybook
+- Utilizar Tailwind para estilização
+- Utilizar Github Actions para fazer o deploy
 
 ## Suporte
 
-Para suporte, mande um email para fake@fake.com ou entre em nosso canal do Slack.
+Para suporte, mande um email para ![leokazuyukinagatani@gmail.com](mailto:leokazuyukinagatani@gmail.com?subject=ignitelab-design-system)
 
 
 ## Relacionados

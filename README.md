@@ -1,9 +1,9 @@
-[Roadmap](#-roadmap) |
-[Documentação](#-documentação) |
-[Como Executar](#-rodando-localmente) |
-[Projeto](#-stack-utilizada) |
-[Testes](#-rodando-os-testes) |
-[Next Level](#-melhorias) 
+[Roadmap](#roadmap) |
+[Documentação](#documentação) |
+[Como Executar](#rodando-localmente) |
+[Projeto](#stack-utilizada) |
+[Testes](#rodando-os-testes) |
+[Next Level](#melhorias) 
 
 ![Logo](https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/6335f80ba54ab27e8d4459cd_OG-ignitelab.jpg)
 

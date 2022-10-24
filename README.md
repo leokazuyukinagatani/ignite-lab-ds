@@ -73,6 +73,19 @@ Inicie o storybook
 
 Obs: Em caso de erro ao iniciar o storybook verificar versão do nodejs e utilizar o 'nvm' para alteração da versão.
 
+## Rodando os testes
+
+Inicie o storybook
+
+```bash
+  npm run storybook
+```
+
+Em outro termina rode os testes
+```bash
+  npm run test-storybook
+```
+
 ## Documentação
 - Design no Figma disponível no link:  [Ignite Lab Design System - Figma](https://www.figma.com/file/YYbBFGWHotDau2pGI4e0u5/Ignite-Lab-Design-System?node-id=1%3A3)
 

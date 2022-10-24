@@ -75,10 +75,14 @@ Obs: Em caso de erro ao iniciar o storybook verificar versão do nodejs e utiliz
 
 | Cor               | Hexadecimal                                                |
 | ----------------- | ---------------------------------------------------------------- |
-| Cor exemplo       | ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) #f03c15|
-| Cor exemplo       | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Cor exemplo       | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Cor exemplo       | ![#00d1a0](https://via.placeholder.com/10/00b48a) #00d1a0 |
+| black             | ![#000000](https://via.placeholder.com/25/000000/000000.png) #000000 |
+| cyan-500          | ![#f8f8f8](https://via.placeholder.com/25/61dafb/61dafb.png) #61DAFB |
+| cyan-200          | ![#00b48a](https://via.placeholder.com/25/64fff6/64fff6.png) #64FFF6 |
+| gray-900          | ![#00d1a0](https://via.placeholder.com/25/121214/121214.png) #121214 |
+| gray-800          | ![#00d1a0](https://via.placeholder.com/25/202024/202024.png) #202024 |
+| gray-400          | ![#00d1a0](https://via.placeholder.com/25/7c7c8a/7c7c8a.png) #7C7C8A |
+| gray-200          | ![#00d1a0](https://via.placeholder.com/25/c4c4cc/c4c4cc.png) #C4C4CC |
+| gray-100          | ![#00d1a0](https://via.placeholder.com/25/e1e1e6/e1e1e6.png) #E1E1E6 |
 
 
 ## Melhorias
